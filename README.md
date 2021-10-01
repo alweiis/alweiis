@@ -16,4 +16,4 @@
 - Spring Framework, Spring Boot
 - Operating System, Network, Database
 - MySQL
-- Git, Githube
+- Git, Github
