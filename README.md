@@ -17,3 +17,7 @@
 - Operating System, Network, Database
 - MySQL
 - Git, Github
+
+## 🧐 I'm currently interested in
+- Clean Code
+- Test Code
