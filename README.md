@@ -19,7 +19,7 @@
 - Git, Github
 
 ## 🧐 I'm currently interested in
-- Clean Code
+- Refactoring
 - Test Code
 <br><br>
 
